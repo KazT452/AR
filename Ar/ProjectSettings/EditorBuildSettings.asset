@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0405dbb5d0754ac498bb36504597e87f
+  - enabled: 1
+    path: Assets/Scenes/ThrowCan.unity
+    guid: 568d288c022f0e34da89390daf025586
+  - enabled: 1
+    path: Assets/Scenes/WhackAMole.unity
+    guid: d22c788956b6f7e498d52ff931b9af68
+  - enabled: 0
+    path: Assets/Scenes/TowerStack.unity
+    guid: bfb9ee115345f674d80b9354b1794c89
+  - enabled: 1
+    path: Assets/Scenes/TestStackTower.unity
+    guid: 8967b7f9aafd94a4c89a11d566713af6
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 594108022ec0fbb4b97be175261b6be5,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
